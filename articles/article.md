@@ -1,33 +1,6 @@
 this is my review.
 
 <<<<<<< HEAD
-=======
-![Markdown](http://pad.haroopress.com/docs/en/markdown/images/markdown_128.png)
-# Markdown for Music Lovers
-iii
-
-second time modify
-
-**Markdown** is a lightweight markup language with plain text formatting syntax.
-It is designed so that it can be converted to HTML and many other formats using
-a tool by the same name. Markdown is often used to format readme files, for
-writing messages in online discussion forums, and to create rich text using a
-plain text editor. As the initial description of Markdown contained ambiguities
-and unanswered questions, many implementations and extensions of Markdown
-appeared over the years to answer these issues.
-
-source: [wikipedia](https://en.wikipedia.org/wiki/Markdown)
-
-You will find here the bases of Markdown you will need to write your best article
-
-**A text-file containing Markdown should have the extension `.md` to be read properly**
-
-
-Let's practice [here](http://jbt.github.io/markdown-editor/)
-
----
-
-## I. Sections and subsections:
 
 
 # 1.Look what can i do !
